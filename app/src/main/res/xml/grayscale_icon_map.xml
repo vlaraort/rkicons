@@ -119,12 +119,13 @@
     <icon drawable="@drawable/google_home" package="com.google.android.apps.chromecast.app" name="Google Home" />
     <icon drawable="@drawable/google_keep" package="com.google.android.keep" name="Google Keep" />
     <icon drawable="@drawable/google_lens" package="com.google.ar.lens" name="Google Lens" />
-    <icon drawable="@drawable/google_meet" package="com.google.android.app.meetings" name="Google Meet" />
+    <icon drawable="@drawable/google_meet" package="com.google.android.apps.meetings" name="Google Meet" />
     <icon drawable="@drawable/google_news" package="com.google.android.apps.magazines" name="Google News" />
     <icon drawable="@drawable/google_one" package="com.google.android.apps.subscriptions.red" name="Google One" />
     <icon drawable="@drawable/google" package="com.google.android.apps.searchlite" name="Google" />
     <icon drawable="@drawable/google" package="com.google.android.googlequicksearchbox" name="Google" />
     <icon drawable="@drawable/google_pay" package="com.google.android.apps.nbu.paisa.user" name="Google Pay" />
+    <icon drawable="@drawable/google_pay" package="com.google.android.apps.walletnfcrel" name="Google Pay" />
     <icon drawable="@drawable/google_photos" package="com.google.android.apps.photos" name="Google Photos" />
     <icon drawable="@drawable/google_play_books" package="com.google.android.apps.books" name="Google Play Books" />
     <icon drawable="@drawable/google_play_games" package="com.google.android.play.games" name="Google Play Games" />
@@ -148,6 +149,7 @@
     <icon drawable="@drawable/instagram" package="com.instagram.android" name="Instagram" />
     <icon drawable="@drawable/instagram" package="com.instagram.lite" name="Instagram" />
     <icon drawable="@drawable/instapaper" package="com.instapaper.android" name="Instapaper" />
+    <icon drawable="@drawable/ivoox" package="com.ivoox.app" name="iVoox" />
     <icon drawable="@drawable/juicessh" package="com.sonelli.juicessh" name="JuiceSSH" />
     <icon drawable="@drawable/kakaotalk" package="com.kakao.talk" name="KakaoTalk" />
     <icon drawable="@drawable/karwei" package="nl.karwei.app.android" name="KARWEI" />
@@ -167,7 +169,7 @@
     <icon drawable="@drawable/messages" package="com.samsung.android.messaging" name="Messages" />
     <icon drawable="@drawable/messenger" package="com.facebook.mlite" name="Messenger" />
     <icon drawable="@drawable/messenger" package="com.facebook.orca" name="Messenger" />
-    <icon drawable="@drawable/messages" package="com.android.messaging" name="Messaging" />
+    <icon drawable="@drawable/messages_aosp" package="com.android.messaging" name="Messages AOSP" />
     <icon drawable="@drawable/mobile_legends" package="com.mobile.legends" name="Mobile Legends" />
     <icon drawable="@drawable/idm" package="idm.internet.download.manager" name="1dm" />
     <icon drawable="@drawable/idm_plus" package="idm.internet.download.manager.plus" name="1dm+" />
@@ -195,6 +197,7 @@
     <icon drawable="@drawable/nekogram" package="tw.nekomimi.nekogram" name="Nekogram" />
     <icon drawable="@drawable/netflix" package="com.netflix.mediaclient" name="Netflix" />
     <icon drawable="@drawable/newpipe" package="org.schabi.newpipe" name="NewPipe" />
+    <icon drawable="@drawable/notify" package="com.mc.amazfit1" name="Notify for Amazfit &amp; Zepp" />
     <icon drawable="@drawable/ns" package="nl.ns.android.activity" name="NS" />
     <icon drawable="@drawable/onedrive" package="com.microsoft.skydrive" name="OneDrive" />
     <icon drawable="@drawable/opera_browser" package="com.opera.browser" name="Opera Browser" />
@@ -297,6 +300,7 @@
     <icon drawable="@drawable/tiktok" package="com.zhiliaoapp.musically" name="TikTok" />
     <icon drawable="@drawable/tor_browser" package="org.torproject.torbrowser" name="Tor Browser" />
     <icon drawable="@drawable/trust_wallet" package="com.wallet.crypto.trustapp" name="Trust Wallet" />
+    <icon drawable="@drawable/tyra" package="se.bayou.android.tyra" name="Tyra" />
     <icon drawable="@drawable/khan_academy" package="org.khanacademy.android" name="Khan Academy" />
     <icon drawable="@drawable/paypal" package="com.paypal.android.p2pmobile" name="PayPal" />
     <icon drawable="@drawable/microsoft_office" package="com.microsoft.office.officehubrow" name="Microsoft Office" />
@@ -377,4 +381,8 @@
     <icon drawable="@drawable/kiwi" package="com.kiwibrowser.browser" name="Kiwi Browser" />
     <icon drawable="@drawable/ninegag" package="com.ninegag.android.app" name="9gag" />
     <icon drawable="@drawable/chromium" package="org.chromium.chrome" name="Chromium" />
+    <icon drawable="@drawable/amaze" package="com.amaze.filemanager" name="Amaze" />
+    <icon drawable="@drawable/fl_studio_mobile" package="com.imageline.FLM" name="Fl Studio Mobile" />
+    <icon drawable="@drawable/ibispaint_x" package="jp.ne.ibis.ibispaintx.app" name="ibisPaint X" />
+    <icon drawable="@drawable/nodevideo" package="com.shallwaystudio.nodevideo" name="NodeVideo" />
 </icons>
