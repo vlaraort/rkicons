@@ -10,6 +10,8 @@
     <icon drawable="@drawable/apple_music" package="com.apple.android.music" name="Apple Music" />
     <icon drawable="@drawable/aurora_store" package="com.aurora.store" name="Aurora Store" />
     <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy" />
+    <icon drawable="@drawable/axa" package="com.axa.app.myaxa.es" name="MyAXA España" />
+    <icon drawable="@drawable/bankinter" package="com.bankinter.launcher" name="Bankinter Móvil" />
     <icon drawable="@drawable/bgram" package="org.telegram.BifToGram" name="BGram" />
     <icon drawable="@drawable/binance" package="com.binance.dev" name="Binance" />
     <icon drawable="@drawable/bitwarden" package="com.x8bit.bitwarden" name="Bitwarden" />
@@ -197,7 +199,7 @@
     <icon drawable="@drawable/nekogram" package="tw.nekomimi.nekogram" name="Nekogram" />
     <icon drawable="@drawable/netflix" package="com.netflix.mediaclient" name="Netflix" />
     <icon drawable="@drawable/newpipe" package="org.schabi.newpipe" name="NewPipe" />
-    <icon drawable="@drawable/notify" package="com.mc.amazfit1" name="Notify for Amazfit &amp; Zepp" />
+    <icon drawable="@drawable/notify" package="com.mc.amazfit1" name="Notify for Amazfit" />
     <icon drawable="@drawable/ns" package="nl.ns.android.activity" name="NS" />
     <icon drawable="@drawable/onedrive" package="com.microsoft.skydrive" name="OneDrive" />
     <icon drawable="@drawable/opera_browser" package="com.opera.browser" name="Opera Browser" />
@@ -385,4 +387,20 @@
     <icon drawable="@drawable/fl_studio_mobile" package="com.imageline.FLM" name="Fl Studio Mobile" />
     <icon drawable="@drawable/ibispaint_x" package="jp.ne.ibis.ibispaintx.app" name="ibisPaint X" />
     <icon drawable="@drawable/nodevideo" package="com.shallwaystudio.nodevideo" name="NodeVideo" />
+    <icon drawable="@drawable/yoroi" package="com.emurgo" name="Yoroi" />
+    <icon drawable="@drawable/fintonic" package="com.fintonic" name="Fintonic" />
+    <icon drawable="@drawable/orange" package="es.orangebank.app" name="Orange Bank" />
+    <icon drawable="@drawable/glovo" package="com.glovo" name="Glovo" />
+    <icon drawable="@drawable/just_eat" package="com.justeat.app.es" name="Just Eat" />
+    <icon drawable="@drawable/uber_eats" package="com.ubercab.eats" name="Uber Eats" />
+    <icon drawable="@drawable/mcdonalds" package="com.mcdonalds.mobileapp" name="McDonald's" />
+    <icon drawable="@drawable/burger_king" package="es.burgerking.android" name="Burger King" />
+    <icon drawable="@drawable/wallapop" package="com.wallapop" name="Wallapop" />
+    <icon drawable="@drawable/delta" package="io.getdelta.android" name="Delta" />
+    <icon drawable="@drawable/cooltra" package="com.mobime.ecooltra" name="Cooltra" />
+    <icon drawable="@drawable/cabify" package="com.cabify.rider" name="Cabify" />
+    <icon drawable="@drawable/uber" package="com.ubercab" name="Uber" />
+    <icon drawable="@drawable/edenred" package="es.edenred" name="MyEdenred" />
+
+
 </icons>
