@@ -650,4 +650,7 @@
     <icon drawable="@drawable/insular" package="com.oasisfeng.island.fdroid" name="Insular" />
     <icon drawable="@drawable/ffupdater" package="de.marmaro.krt.ffupdater" name="FFUpdater" />
     <icon drawable="@drawable/another_notes" package="com.maltaisn.notes.sync" name="Another Notes" />
+    <icon drawable="@drawable/noto" package="com.noto" name="Noto" />
+    <icon drawable="@drawable/libretube" package="com.github.libretube" name="LibreTube" />
+    <icon drawable="@drawable/read_you" package="me.ash.reader" name="Read You" />
 </icons>
