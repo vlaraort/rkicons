@@ -649,4 +649,5 @@
     <icon drawable="@drawable/foxmmm" package="com.fox2code.mmm.fdroid" name="Fox MMM" />
     <icon drawable="@drawable/insular" package="com.oasisfeng.island.fdroid" name="Insular" />
     <icon drawable="@drawable/ffupdater" package="de.marmaro.krt.ffupdater" name="FFUpdater" />
+    <icon drawable="@drawable/another_notes" package="com.maltaisn.notes.sync" name="Another Notes" />
 </icons>
