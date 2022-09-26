@@ -654,13 +654,21 @@
     <icon drawable="@drawable/libretube" package="com.github.libretube" name="LibreTube" />
     <icon drawable="@drawable/read_you" package="me.ash.reader" name="Read You" />
     <icon drawable="@drawable/github" package="com.thirtydegreesray.openhub" name="OpenHub" />
-    <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts.pro" name="Simple Contacts" />
+    <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts.pro" name="Simple Contacts Pro" />
     <icon drawable="@drawable/dialer" package="com.simplemobiletools.dialer" name="Simple Dialer" />
     <icon drawable="@drawable/messages" package="com.simplemobiletools.smsmessenger" name="Simple Sms Messenger" />
-    <icon drawable="@drawable/calendar" package="com.simplemobiletools.calendar.pro" name="Simple Calendar" />
+    <icon drawable="@drawable/calendar" package="com.simplemobiletools.calendar.pro" name="Simple Calendar Pro" />
     <icon drawable="@drawable/aniyomi" package="xyz.jmir.tachiyomi.mi" name="Aniyomi" />
     <icon drawable="@drawable/hail" package="com.aistra.hail" name="hail" />
     <icon drawable="@drawable/fennec" package="org.mozilla.fennec_fdroid" name="fennec" />
     <icon drawable="@drawable/zulip" package="com.zulipmobile" name="Zulip" />
     <icon drawable="@drawable/k9" package="com.fsck.k9" name="K9" />
+    <icon drawable="@drawable/asusrecorder" package="com.simplemobiletools.voicerecorder" name="Simple Voice Recorder" />
+    <icon drawable="@drawable/calculator" package="com.simplemobiletools.calculator" name="Simple Calculator" />
+    <icon drawable="@drawable/files" package="com.simplemobiletools.filemanager.pro" name="Simple File Manager Pro" />
+    <icon drawable="@drawable/notes" package="com.simplemobiletools.notes.pro" name="Simple File Notes Pro" />
+    <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts" name="Simple Contacts" />
+    <icon drawable="@drawable/files" package="com.simplemobiletools.filemanager" name="Simple File Manager" />
+    <icon drawable="@drawable/simple_gallery_pro" package="com.simplemobiletools.gallery" name="Simple Gallery" />
+    <icon drawable="@drawable/clock" package="com.simplemobiletools.clock" name="Simple Clock" />
 </icons>
