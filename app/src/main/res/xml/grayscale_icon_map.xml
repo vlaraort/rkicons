@@ -167,7 +167,7 @@
     <icon drawable="@drawable/google_fi" package="com.google.android.apps.tycho" name="Google Fi" />
     <icon drawable="@drawable/google_fit" package="com.google.android.apps.fitness" name="Google Fit" />
     <icon drawable="@drawable/google_home" package="com.google.android.apps.chromecast.app" name="Google Home" />
-    <icon drawable="@drawable/google_keep" package="com.google.android.keep" name="Google Keep" />
+    <icon drawable="@drawable/keep" package="com.google.android.keep" name="Google Keep" />
     <icon drawable="@drawable/google_lens" package="com.google.ar.lens" name="Google Lens" />
     <icon drawable="@drawable/google_meet" package="com.google.android.apps.meetings" name="Google Meet" />
     <icon drawable="@drawable/google_meet" package="com.google.android.apps.tachyon" name="Google Meet" />
@@ -617,4 +617,58 @@
     <icon drawable="@drawable/dodocodes" package="com.dodocodes.mobile" name="DodoCodes" />
     <icon drawable="@drawable/revolt" package="chat.revolt.app.twa" name="Revolt" />
     <icon drawable="@drawable/organic_maps" package="app.organicmaps" name="Organic Maps" />
+    <icon drawable="@drawable/app_lounge" package="foundation.e.apps" name="App Lounge" />
+    <icon drawable="@drawable/browser" package="foundation.e.browser" name="Browser" />
+    <icon drawable="@drawable/calendar" package="foundation.e.calendar" name="Calendar" />
+    <icon drawable="@drawable/camera" package="foundation.e.camera" name="Camera" />
+    <icon drawable="@drawable/fairemail" package="foundation.e.mail" name="Mail" />
+    <icon drawable="@drawable/messages" package="foundation.e.message" name="Message" />
+    <icon drawable="@drawable/notes" package="foundation.e.notes" name="Notes" />
+    <icon drawable="@drawable/tasks" package="foundation.e.tasks" name="Tasks" />
+    <icon drawable="@drawable/clock" package="com.android.deskclock" name="Clock" />
+    <icon drawable="@drawable/floccus" package="org.handmadeideas.floccus" name="floccus" />
+    <icon drawable="@drawable/recorder" package="org.lineageos.recorder" name="Recorder" />
+    <icon drawable="@drawable/music" package="org.lineageos.eleven" name="Music" />
+    <icon drawable="@drawable/joplin" package="net.cozic.joplin" name="Joplin" />
+    <icon drawable="@drawable/keepass" package="com.kunzisoft.keepass.libre" name="KeePassDX" />
+    <icon drawable="@drawable/keepass" package="com.kunzisoft.keepass.free" name="KeePassDX" />
+    <icon drawable="@drawable/protondrive" package="me.proton.android.drive" name="Proton Drive" />
+    <icon drawable="@drawable/newpipe" package="org.polymorphicshade.newpipe" name="NewPipe SponsorBlock" />
+    <icon drawable="@drawable/syncthing" package="com.github.catfriend1.syncthingandroid" name="Syncthing-Fork" />
+    <icon drawable="@drawable/darkpapers" package="com.dark.papers" name="DarkPapers" />
+    <icon drawable="@drawable/threema" package="ch.threema.app" name="Threema" />
+    <icon drawable="@drawable/threema" package="ch.threema.app.libre" name="Threema Libre" />
+    <icon drawable="@drawable/mull" package="us.spotco.fennec_dos" name="Mull" />
+    <icon drawable="@drawable/pdf_viewer" package="com.gsnathan.pdfviewer" name="Pdf Viewer Plus" />
+    <icon drawable="@drawable/pdf_viewer" package="foundation.e.pdfviewer" name="Pdf Viewer Plus" />
+    <icon drawable="@drawable/droid_ify" package="com.looker.droidify" name="Droid-ify" />
+    <icon drawable="@drawable/magic_earth" package="com.generalmagic.magicearth" name="Magic Earth" />
+    <icon drawable="@drawable/qksms" package="com.moez.QKSMS" name="QKSMS" />
+    <icon drawable="@drawable/qr_reader" package="com.tomfong.simpleqr" name="Simple QR" />
+    <icon drawable="@drawable/tailscale" package="com.tailscale.ipn" name="Tailscale" />
+    <icon drawable="@drawable/foxmmm" package="com.fox2code.mmm.fdroid" name="Fox MMM" />
+    <icon drawable="@drawable/insular" package="com.oasisfeng.island.fdroid" name="Insular" />
+    <icon drawable="@drawable/ffupdater" package="de.marmaro.krt.ffupdater" name="FFUpdater" />
+    <icon drawable="@drawable/another_notes" package="com.maltaisn.notes.sync" name="Another Notes" />
+    <icon drawable="@drawable/noto" package="com.noto" name="Noto" />
+    <icon drawable="@drawable/libretube" package="com.github.libretube" name="LibreTube" />
+    <icon drawable="@drawable/read_you" package="me.ash.reader" name="Read You" />
+    <icon drawable="@drawable/github" package="com.thirtydegreesray.openhub" name="OpenHub" />
+    <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts.pro" name="Simple Contacts Pro" />
+    <icon drawable="@drawable/dialer" package="com.simplemobiletools.dialer" name="Simple Dialer" />
+    <icon drawable="@drawable/messages" package="com.simplemobiletools.smsmessenger" name="Simple Sms Messenger" />
+    <icon drawable="@drawable/calendar" package="com.simplemobiletools.calendar.pro" name="Simple Calendar Pro" />
+    <icon drawable="@drawable/aniyomi" package="xyz.jmir.tachiyomi.mi" name="Aniyomi" />
+    <icon drawable="@drawable/hail" package="com.aistra.hail" name="hail" />
+    <icon drawable="@drawable/fennec" package="org.mozilla.fennec_fdroid" name="fennec" />
+    <icon drawable="@drawable/zulip" package="com.zulipmobile" name="Zulip" />
+    <icon drawable="@drawable/k9" package="com.fsck.k9" name="K9" />
+    <icon drawable="@drawable/asusrecorder" package="com.simplemobiletools.voicerecorder" name="Simple Voice Recorder" />
+    <icon drawable="@drawable/calculator" package="com.simplemobiletools.calculator" name="Simple Calculator" />
+    <icon drawable="@drawable/files" package="com.simplemobiletools.filemanager.pro" name="Simple File Manager Pro" />
+    <icon drawable="@drawable/notes" package="com.simplemobiletools.notes.pro" name="Simple File Notes Pro" />
+    <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts" name="Simple Contacts" />
+    <icon drawable="@drawable/files" package="com.simplemobiletools.filemanager" name="Simple File Manager" />
+    <icon drawable="@drawable/simple_gallery_pro" package="com.simplemobiletools.gallery" name="Simple Gallery" />
+    <icon drawable="@drawable/clock" package="com.simplemobiletools.clock" name="Simple Clock" />
 </icons>
