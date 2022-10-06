@@ -311,7 +311,8 @@
     <icon drawable="@drawable/signal" package="org.thoughtcrime.securesms" name="Signal" />
     <icon drawable="@drawable/simple_gallery_pro" package="com.simplemobiletools.gallery.pro" name="Simple Gallery Pro" />
     <icon drawable="@drawable/simplenote" package="com.automattic.simplenote" name="Simplenote" />
-     <icon drawable="@drawable/sim_toolkit" package="com.android.stk" name="SIM Toolkit" />
+    <icon drawable="@drawable/sim_toolkit" package="com.android.stk" name="SIM Toolkit" />
+    <icon drawable="@drawable/swiggy" package="in.swiggy.android" name="Swiggy" />
     <icon drawable="@drawable/yeelight" package="com.yeelight.cherry" name="Yeelight" />
     <icon drawable="@drawable/apple_music" package="com.apple.android.music" name="Apple Music" />
     <icon drawable="@drawable/ebay_kleinanzeigen" package="com.ebay.kleinanzeigen" name="eBay Kleinanzeigen" />
