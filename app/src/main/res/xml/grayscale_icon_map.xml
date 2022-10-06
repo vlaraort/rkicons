@@ -261,6 +261,7 @@
     <icon drawable="@drawable/notify" package="com.mc.amazfit1" name="Notify for Amazfit &amp; Zepp" />
     <icon drawable="@drawable/nubank" package="com.nu.production" name="Nubank" />
     <icon drawable="@drawable/ns" package="nl.ns.android.activity" name="NS" />
+    <icon drawable="@drawable/ola" package="com.olacabs.customer" name="Ola" />
     <icon drawable="@drawable/onedrive" package="com.microsoft.skydrive" name="OneDrive" />
     <icon drawable="@drawable/opera_browser" package="com.opera.browser" name="Opera Browser" />
     <icon drawable="@drawable/opera_gx" package="com.opera.gx" name="Opera GX" />
