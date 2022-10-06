@@ -73,6 +73,7 @@
     <icon drawable="@drawable/samsungcalendar" package="com.samsung.android.calendar" name="Samsung Calendar" />
     <icon drawable="@drawable/catogram" package="ua.itaysonlab.messenger" name="Catogram" />
     <icon drawable="@drawable/citymapper" package="com.citymapper.app.release" name="Citymapper" />
+    <icon drawable="@drawable/coinbase" package="com.coinbase.android" name="Coinbase" />
     <icon drawable="@drawable/coins_ph" package="asia.coins.mobile" name="Coins.ph" />
     <icon drawable="@drawable/coinvero" package="com.candlestick_app" name="Coinvero" />
     <icon drawable="@drawable/contacts" package="com.android.contacts" name="Contacts" />
