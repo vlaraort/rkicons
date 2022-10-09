@@ -673,4 +673,11 @@
     <icon drawable="@drawable/files" package="com.simplemobiletools.filemanager" name="Simple File Manager" />
     <icon drawable="@drawable/simple_gallery_pro" package="com.simplemobiletools.gallery" name="Simple Gallery" />
     <icon drawable="@drawable/clock" package="com.simplemobiletools.clock" name="Simple Clock" />
+    <icon drawable="@drawable/flamingo" package="com.samruston.twitter" name="Flamingo" />
+    <icon drawable="@drawable/neo_backup" package="com.machiav3lli.backup" name="Neo Backup" />
+    <icon drawable="@drawable/neo_store" package="com.machiav3lli.fdroid" name="Neo Store" />
+    <icon drawable="@drawable/saikou" package="ani.saikou.beta" name="Saikou" />
+    <icon drawable="@drawable/tachiyomisy" package="eu.kanade.tachiyomi.sy" name="TachiyomiSY" />
+    <icon drawable="@drawable/gallery" package="com.coloros.gallery3d" name="Gallery" />
+    <icon drawable="@drawable/files" package="com.coloros.filemanager" name="Files" />
 </icons>
