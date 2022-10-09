@@ -680,4 +680,11 @@
     <icon drawable="@drawable/tachiyomisy" package="eu.kanade.tachiyomi.sy" name="TachiyomiSY" />
     <icon drawable="@drawable/gallery" package="com.coloros.gallery3d" name="Gallery" />
     <icon drawable="@drawable/files" package="com.coloros.filemanager" name="Files" />
+    <icon drawable="@drawable/aves_gallery" package="deckers.thibault.aves" name="Aves Gallery" />
+    <icon drawable="@drawable/blokada" package="org.blokada.alarm.dnschanger" name="Blokada" />
+    <icon drawable="@drawable/blokada" package="org.blokada.fem.fdroid" name="Blokada" />
+    <icon drawable="@drawable/codecademy_go" package="com.ryzac.codecademygo" name="Codecademy Go" />
+    <icon drawable="@drawable/coffee" package="com.github.muellerma.coffee" name="Coffee" />
+    <icon drawable="@drawable/compass" package="com.miui.compass" name="Compass" />
+    <icon drawable="@drawable/compass" package="dev.synapsetech.compass" name="Compass" />
 </icons>
