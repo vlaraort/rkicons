@@ -687,4 +687,23 @@
     <icon drawable="@drawable/coffee" package="com.github.muellerma.coffee" name="Coffee" />
     <icon drawable="@drawable/compass" package="com.miui.compass" name="Compass" />
     <icon drawable="@drawable/compass" package="dev.synapsetech.compass" name="Compass" />
+    <icon drawable="@drawable/crunchyroll" package="com.crunchyroll.crunchyroid" name="Crunchyroll" />
+    <icon drawable="@drawable/data_monitor" package="com.drnoob.datamonitor" name="Data Monitor" />
+    <icon drawable="@drawable/delta_icons" package="website.leifs.delta" name="Delta" />
+    <icon drawable="@drawable/dominos" package="by.mc.dominos.com" name="Domino's Pizza" />
+    <icon drawable="@drawable/dominos" package="com.boloid.dominos" name="Domino's Pizza" />
+    <icon drawable="@drawable/dominos" package="com.dominos.bd" name="Domino's Pizza" />
+    <icon drawable="@drawable/dominos" package="com.dominos.sa" name="Domino's Pizza" />
+    <icon drawable="@drawable/dominos" package="com.Dominos" name="Domino's Pizza" />
+    <icon drawable="@drawable/dominos" package="com.dominospizza.az" name="Domino's Pizza" />
+    <icon drawable="@drawable/dominos" package="com.phonegap.dominos" name="Domino's Pizza" />
+    <icon drawable="@drawable/dominos" package="dominos.main" name="Domino's Pizza" />
+    <icon drawable="@drawable/dominos" package="il.co.dominos.android" name="Domino's Pizza" />
+    <icon drawable="@drawable/dominos" package="is.stokkur.dominos" name="Domino's Pizza" />
+    <icon drawable="@drawable/dominos" package="nl.speakap.dominosdeutschland" name="Domino's Pizza" />
+    <icon drawable="@drawable/dominos" package="pk.com.dominos" name="Domino's Pizza" />
+    <icon drawable="@drawable/dominos" package="ua.com.coxo.dominos" name="Domino's Pizza" />
+    <icon drawable="@drawable/dominos" package="uk.co.dominos.android" name="Domino's Pizza" />
+    <icon drawable="@drawable/dominos" package="com.dominospizza" name="Domino's Pizza" />
+    <icon drawable="@drawable/doodle" package="xyz.zedler.patrick.doodle" name="Doodle" />
 </icons>
