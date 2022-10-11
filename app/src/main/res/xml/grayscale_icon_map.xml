@@ -774,4 +774,11 @@
     <icon drawable="@drawable/recorder" package="com.sec.android.app.voicenote" name="Recorder" />
     <icon drawable="@drawable/rustdesk" package="com.carrierz.flutter_hbb" name="RustDesk" />
     <icon drawable="@drawable/screen_recorder" package="com.miui.screenrecorder" name="Screen Recorder" />
+    <icon drawable="@drawable/screen_recorder" package="com.kimcy929.screenrecorder" name="Screen Recorder" />
+    <icon drawable="@drawable/files" package="com.alphainventor.filemanager" name="File Manager Plus" />
+    <icon drawable="@drawable/recorder" package="com.first75.voicerecorder2" name="Recorder" />
+    <icon drawable="@drawable/aimp" package="com.aimp.player" name="Aimp" />
+    <icon drawable="@drawable/game_space" package="io.chaldeaprjkt.gamespace" name="Game Space" />
+    <icon drawable="@drawable/poweramp_equalizer" package="com.maxmpz.equalizer" name="Poweramp Equalizer" />
+    <icon drawable="@drawable/share_me" package="com.xiaomi.midrop" name="Share Me" />
 </icons>
