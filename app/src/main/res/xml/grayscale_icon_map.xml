@@ -739,4 +739,39 @@
     <icon drawable="@drawable/glider" package="nl.viter.glider" name="Glider" />
     <icon drawable="@drawable/spotistats" package="dev.netlob.spotistats" name="Spotistats" />
     <icon drawable="@drawable/windscribe_vpn" package="com.windscribe.vpn" name="Windscribe VPN" />
+    <icon drawable="@drawable/anydesk" package="com.anydesk.anydeskandroid" name="AnyDesk" />
+    <icon drawable="@drawable/florisboard" package="dev.patrickgold.florisboard" name="FlorisBoard" />
+    <icon drawable="@drawable/florisboard" package="dev.patrickgold.florisboard.beta" name="FlorisBoard" />
+    <icon drawable="@drawable/florisboard" package="dev.patrickgold.florisboard.debug" name="FlorisBoard" />
+    <icon drawable="@drawable/pizza_hut" package="bn.com.pizzahut.OSPHB" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.aggregator.pizzahutmongolia" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.devsence.pizzahut" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.expremio.pizzahutcipru" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.nanoequipment.pizzahut" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.pizzahut.jeddah" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.pizzahut.kh" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.pizzahut.kuwait" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.pizzahut.malaysia" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.pizzahut.ng" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.pizzahut.oman" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.pizzahut.phd" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.pizzahut.qatar" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.pizzahut.rsa" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.pizzahutapp" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.pizzahutguyana.android" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.socialsnack.pizzahutcr" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="com.yum.pizzahut" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="eu.beeple.topbrandspizzahut.users" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="jp.pizzahut.aorder" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="net.bonee.pizzaHut" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="pra.hizzahut.com.sv" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="pt.wingman.pizzahut" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="se.leeroygroup.pizzahut" name="Pizza Hut" />
+    <icon drawable="@drawable/pizza_hut" package="tr.com.pizzahut" name="Pizza Hut" />
+    <icon drawable="@drawable/recorder" package="com.android.bbksoundrecorder" name="Recorder" />
+    <icon drawable="@drawable/recorder" package="com.android.soundrecorder" name="Recorder" />
+    <icon drawable="@drawable/recorder" package="com.oneplus.soundrecorder" name="Recorder" />
+    <icon drawable="@drawable/recorder" package="com.sec.android.app.voicenote" name="Recorder" />
+    <icon drawable="@drawable/rustdesk" package="com.carrierz.flutter_hbb" name="RustDesk" />
+    <icon drawable="@drawable/screen_recorder" package="com.miui.screenrecorder" name="Screen Recorder" />
 </icons>
