@@ -138,6 +138,7 @@
     <icon drawable="@drawable/gallery_go" package="com.google.android.apps.photosgo" name="Gallery Go" />
     <icon drawable="@drawable/gallery" package="com.android.gallery3d" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.miui.gallery" name="Gallery" />
+    <icon drawable="@drawable/gallery" package="com.coloros.filemanager" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.asus.gallery" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.oneplus.gallery" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.oppo.gallery3d" name="Gallery" />
@@ -290,6 +291,7 @@
     <icon drawable="@drawable/rabo_wallet" package="nl.rabowallet" name="Rabo Wallet" />
     <icon drawable="@drawable/rabobank" package="nl.rabomobiel" name="rabobank" />
     <icon drawable="@drawable/recorder" package="com.google.android.apps.recorder" name="Recorder" />
+    <icon drawable="@drawable/recorder" package="com.first75.voicerecorder2" name="Recorder" />
     <icon drawable="@drawable/nothing_recorder" package="com.nothing.soundrecorder" name="Nothing Recorder" />
     <icon drawable="@drawable/asusrecorder" package="com.asus.soundrecorder" name="Asus Recorder" />
     <icon drawable="@drawable/reddit" package="com.reddit.frontpage" name="Reddit" />
@@ -412,6 +414,7 @@
     <icon drawable="@drawable/cpu_z" package="com.cpuid.cpu_z" name="CPU Z" />
     <icon drawable="@drawable/imdb" package="com.imdb.mobile" name="IMDb" />
     <icon drawable="@drawable/files" package="com.oneplus.filemanager" name="Files" />
+    <icon drawable="@drawable/files" package="com.coloros.filemanager" name="Files" />
     <icon drawable="@drawable/tuya_smart" package="com.tuya.smart" name="Tuya Smart" />
     <icon drawable="@drawable/tv_time" package="com.tozelabs.tvshowtime" name="TV Time"/>
     <icon drawable="@drawable/twitch" package="tv.twitch.bttvandroid.app" name="Twitch" />
@@ -474,6 +477,7 @@
     <icon drawable="@drawable/xiaomi_fit" package="com.xiaomi.hm.health" name="Mi fit" />
     <icon drawable="@drawable/pixel_heroes" package="com.headupgames.pixelheroes" name="Session" />
     <icon drawable="@drawable/aliexpress" package="com.alibaba.aliexpresshd" name="aliexpress" />
+    <icon drawable="@drawable/aliexpress" package="ru.aliexpress.buyer" name="aliexpress" />
     <icon drawable="@drawable/kiwi" package="com.kiwibrowser.browser" name="Kiwi Browser" />
     <icon drawable="@drawable/ninegag" package="com.ninegag.android.app" name="9gag" />
     <icon drawable="@drawable/chromium" package="org.chromium.chrome" name="Chromium" />
@@ -504,6 +508,7 @@
     <icon drawable="@drawable/pou" package="me.pou.app" name="Pou" />
     <icon drawable="@drawable/radio" package=" com.caf.fmradio" name="FM Radio" />
     <icon drawable="@drawable/vk" package="com.vkontakte.android" name="VK" />
+    <icon drawable="@drawable/vk" package="com.tea.android" name="VK" />
     <icon drawable="@drawable/zappka" package="pl.zabka.apb2c" name="Żappka" />
     <icon drawable="@drawable/activitylauncher" package="de.szalkowski.activitylauncher" name="Activity Launcher" />
     <icon drawable="@drawable/sonymusic" package="com.sonyericsson.music" name="Sony Music" />
@@ -678,4 +683,27 @@
     <icon drawable="@drawable/files" package="com.simplemobiletools.filemanager" name="Simple File Manager" />
     <icon drawable="@drawable/simple_gallery_pro" package="com.simplemobiletools.gallery" name="Simple Gallery" />
     <icon drawable="@drawable/clock" package="com.simplemobiletools.clock" name="Simple Clock" />
+    <icon drawable="@drawable/fenix" package="it.mvilla.android.fenix2" name="Fenix" />
+    <icon drawable="@drawable/tasker" package="net.dinglisch.android.taskerm" name="Tasker" />
+    <icon drawable="@drawable/traveloka" package="com.traveloka.android" name="Traveloka" />
+    <icon drawable="@drawable/must" package="me.mustapp.android" name="Must" />
+    <icon drawable="@drawable/todoist" package="com.todoist" name="Todoist" />
+    <icon drawable="@drawable/boost" package="my.com.myboost" name="Boost" />
+    <icon drawable="@drawable/grab" package="com.grabtaxi.passenger" name="Grab" />
+    <icon drawable="@drawable/waze" package="com.waze" name="Waze" />
+    <icon drawable="@drawable/airasia" package="com.airasia.mobile" name="Airasia" />
+    <icon drawable="@drawable/avito" package="com.avito.android" name="Avito" />
+    <icon drawable="@drawable/screenrecorder" package="com.kimcy929.screenrecorder" name="Screen Recorder" />
+    <icon drawable="@drawable/bankru" package="ru.sberbankmobile" name="Sberbank" />
+    <icon drawable="@drawable/filesplus" package="com.alphainventor.filemanager" name="File manager+" />
+    <icon drawable="@drawable/aimp" package="com.aimp.player" name="AIMP" />
+    <icon drawable="@drawable/gamespace" package="io.chaldeaprjkt.gamespace" name="Game space" />
+    <icon drawable="@drawable/mcpro24fps" package="lv.mcprotector.mcpro24fps.red" name="mcpro24fps" />
+    <icon drawable="@drawable/metro" package="www.metro.com" name="Metro" />
+    <icon drawable="@drawable/ozon" package="ru.ozon.app.android" name="Ozon" />
+    <icon drawable="@drawable/powerampeq" package="com.maxmpz.equalizer" name="Poweramp equalizer" />
+    <icon drawable="@drawable/shareme" package="com.xiaomi.midrop" name="ShareMe" />
+    <icon drawable="@drawable/wildberries" package="com.wildberries.ru" name="Wildberries" />
+    <icon drawable="@drawable/photolayers" package="com.handycloset.android.photolayers" name="Photolayers" />
+    <icon drawable="@drawable/remini" package="com.bigwinepot.nwdn.international" name="Remini" />
 </icons>
