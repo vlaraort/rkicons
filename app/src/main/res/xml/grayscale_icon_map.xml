@@ -73,6 +73,7 @@
     <icon drawable="@drawable/samsungcalendar" package="com.samsung.android.calendar" name="Samsung Calendar" />
     <icon drawable="@drawable/catogram" package="ua.itaysonlab.messenger" name="Catogram" />
     <icon drawable="@drawable/citymapper" package="com.citymapper.app.release" name="Citymapper" />
+    <icon drawable="@drawable/coinbase" package="com.coinbase.android" name="Coinbase" />
     <icon drawable="@drawable/coins_ph" package="asia.coins.mobile" name="Coins.ph" />
     <icon drawable="@drawable/coinvero" package="com.candlestick_app" name="Coinvero" />
     <icon drawable="@drawable/contacts" package="com.android.contacts" name="Contacts" />
@@ -115,6 +116,7 @@
     <icon drawable="@drawable/fairemail" package="eu.faircode.email" name="FairEmail" />
     <icon drawable="@drawable/samsungemail" package="com.samsung.android.email.provider" name="Samsung Email" />
     <icon drawable="@drawable/fdroid" package="org.fdroid.fdroid" name="F-Droid" />
+    <icon drawable="@drawable/fi_money" package="com.epifi.paisa" name="Fi Money" />
     <icon drawable="@drawable/files_by_google" package="com.google.android.apps.nbu.files" name="Files by Google" />
     <icon drawable="@drawable/files" package="com.android.documentsui" name="Files" />
     <icon drawable="@drawable/files" package="com.coloros.files" name="Files" />
@@ -260,6 +262,7 @@
     <icon drawable="@drawable/notify" package="com.mc.amazfit1" name="Notify for Amazfit &amp; Zepp" />
     <icon drawable="@drawable/nubank" package="com.nu.production" name="Nubank" />
     <icon drawable="@drawable/ns" package="nl.ns.android.activity" name="NS" />
+    <icon drawable="@drawable/ola" package="com.olacabs.customer" name="Ola" />
     <icon drawable="@drawable/onedrive" package="com.microsoft.skydrive" name="OneDrive" />
     <icon drawable="@drawable/opera_browser" package="com.opera.browser" name="Opera Browser" />
     <icon drawable="@drawable/opera_gx" package="com.opera.gx" name="Opera GX" />
@@ -311,8 +314,10 @@
     <icon drawable="@drawable/signal" package="org.thoughtcrime.securesms" name="Signal" />
     <icon drawable="@drawable/simple_gallery_pro" package="com.simplemobiletools.gallery.pro" name="Simple Gallery Pro" />
     <icon drawable="@drawable/simplenote" package="com.automattic.simplenote" name="Simplenote" />
-     <icon drawable="@drawable/sim_toolkit" package="com.android.stk" name="SIM Toolkit" />
+    <icon drawable="@drawable/sim_toolkit" package="com.android.stk" name="SIM Toolkit" />
+    <icon drawable="@drawable/swiggy" package="in.swiggy.android" name="Swiggy" />
     <icon drawable="@drawable/yeelight" package="com.yeelight.cherry" name="Yeelight" />
+    <icon drawable="@drawable/zomato" package="com.application.zomato" name="Zomato" />
     <icon drawable="@drawable/apple_music" package="com.apple.android.music" name="Apple Music" />
     <icon drawable="@drawable/ebay_kleinanzeigen" package="com.ebay.kleinanzeigen" name="eBay Kleinanzeigen" />
     <icon drawable="@drawable/opera_gx" package="com.opera.gx" name="Opera GX" />
