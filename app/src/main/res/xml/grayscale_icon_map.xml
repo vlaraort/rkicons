@@ -8,7 +8,6 @@
     <icon drawable="@drawable/adobepdf" package="com.adobe.reader" name="Adobe PDF" />
     <icon drawable="@drawable/adobescan" package="com.adobe.scan.android" name="Adobe scan" />
     <icon drawable="@drawable/aegis_authenticator" package="com.beemdevelopment.aegis" name="Aegis Authenticator" />
-    <icon drawable="@drawable/aimp" package="com.aimp.player" name="Aimp" />
     <icon drawable="@drawable/aldiko" package="com.aldiko.android" name="Aldiko" />
     <icon drawable="@drawable/aliexpress" package="com.alibaba.aliexpresshd" name="aliexpress" />
     <icon drawable="@drawable/amaze" package="com.amaze.filemanager" name="Amaze" />
@@ -201,7 +200,6 @@
     <icon drawable="@drawable/fennec" package="org.mozilla.fennec_fdroid" name="fennec" />
     <icon drawable="@drawable/ffupdater" package="de.marmaro.krt.ffupdater" name="FFUpdater" />
     <icon drawable="@drawable/files_by_google" package="com.google.android.apps.nbu.files" name="Files by Google" />
-    <icon drawable="@drawable/files" package="com.alphainventor.filemanager" name="File Manager Plus" />
     <icon drawable="@drawable/files" package="com.android.documentsui" name="Files" />
     <icon drawable="@drawable/files" package="com.asus.filemanager" name="Asus Files" />
     <icon drawable="@drawable/files" package="com.coloros.filemanager" name="Files" />
@@ -240,7 +238,6 @@
     <icon drawable="@drawable/gallery" package="com.miui.gallery" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.oneplus.gallery" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.oppo.gallery3d" name="Gallery" />
-    <icon drawable="@drawable/game_space" package="io.chaldeaprjkt.gamespace" name="Game Space" />
     <icon drawable="@drawable/gboard" package="com.google.android.inputmethod.latin.canary" name="Gboard" />
     <icon drawable="@drawable/gboard" package="com.google.android.inputmethod.latin.dev" name="Gboard" />
     <icon drawable="@drawable/gboard" package="com.google.android.inputmethod.latin" name="Gboard" />
@@ -517,7 +514,6 @@
     <icon drawable="@drawable/pokemongo" package="com.nianticlabs.pokemongo.ares" name="Pokémon GO" />
     <icon drawable="@drawable/pokemongo" package="com.nianticlabs.pokemongo" name="Pokémon GO" />
     <icon drawable="@drawable/pou" package="me.pou.app" name="Pou" />
-    <icon drawable="@drawable/poweramp_equalizer" package="com.maxmpz.equalizer" name="Poweramp Equalizer" />
     <icon drawable="@drawable/poweramp" package="com.maxmpz.audioplayer" name="Poweramp" />
     <icon drawable="@drawable/ppsspp" package="org.ppsspp.ppsspp" name="PPSSPP" />
     <icon drawable="@drawable/ppsspp" package="org.ppsspp.ppssppgold" name="PPSSPP" />
@@ -603,13 +599,10 @@
     <icon drawable="@drawable/schoolplanner" package="daldev.android.gradehelper" name="School Planner" />
     <icon drawable="@drawable/scoop" package="taco.scoop" name="Scoop" />
     <icon drawable="@drawable/scoop" package="xyz.paphonb.scoop" name="Scoop" />
-    <icon drawable="@drawable/screen_recorder" package="com.kimcy929.screenrecorder" name="Screen Recorder" />
-    <icon drawable="@drawable/screen_recorder" package="com.miui.screenrecorder" name="Screen Recorder" />
     <icon drawable="@drawable/sd_maid" package="eu.thedarken.sdm.unlocker" name="SD Maid" />
     <icon drawable="@drawable/sd_maid" package="eu.thedarken.sdm" name="SD Maid" />
     <icon drawable="@drawable/session" package="network.loki.messenger" name="Session" />
     <icon drawable="@drawable/settings" package="com.android.settings" name="Settings" />
-    <icon drawable="@drawable/share_me" package="com.xiaomi.midrop" name="Share Me" />
     <icon drawable="@drawable/shazam" package="com.shazam.android" name="Shazam" />
     <icon drawable="@drawable/shopee" package="com.shopee.id" name="Shopee" />
     <icon drawable="@drawable/shopee" package="com.shopee.my" name="Shopee" />
