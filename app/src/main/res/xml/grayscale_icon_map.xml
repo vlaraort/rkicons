@@ -352,7 +352,8 @@
     <icon drawable="@drawable/amazon_prime_video" package="com.amazon.avod.thirdpartyclient" name="Amazon Prime Video" />
     <icon drawable="@drawable/amazon_music" package="com.amazon.mp3" name="Amazon Music" />
     <icon drawable="@drawable/music" package="com.zionhuang.music" name="Amazon Music" />
-    <icon drawable="@drawable/ymusic" package="com.kapp.youtube.final" name="YMusic" />
+    <icon drawable="@drawable/ymusic" package="app.revanced.android.apps.youtube.music" name="YMusic" />
+    <icon drawable="@drawable/music"  package="com.kapp.youtube.final" name="YMusic" />
     <icon drawable="@drawable/simple_gallery_pro" package="com.simplemobiletools.gallery.pro" name="Simple Gallery Pro" />
     <icon drawable="@drawable/swift_backup" package="org.swiftapps.swiftbackup" name="Swift Backup" />
     <icon drawable="@drawable/sweech" package="com.sweech" name="Sweech" />
