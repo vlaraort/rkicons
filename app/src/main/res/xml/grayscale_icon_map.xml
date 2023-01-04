@@ -235,6 +235,7 @@
     <icon drawable="@drawable/fl_studio_mobile" package="com.imageline.FLM" name="Fl Studio Mobile" />
     <icon drawable="@drawable/flamingo" package="com.samruston.twitter" name="Flamingo" />
     <icon drawable="@drawable/flex" package="com.orange.rn.dop" name="Orange Flex" />
+    <icon drawable="@drawable/flipkart" package="com.flipkart.android" name="Flipkart" />
     <icon drawable="@drawable/float_tube" package="com.xpp.tubeAssistant" name="Float Tube" />
     <icon drawable="@drawable/floccus" package="org.handmadeideas.floccus" name="floccus" />
     <icon drawable="@drawable/florisboard" package="dev.patrickgold.florisboard.beta" name="FlorisBoard" />
