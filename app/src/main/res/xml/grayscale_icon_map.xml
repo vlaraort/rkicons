@@ -315,6 +315,7 @@
     <icon drawable="@drawable/google" package="com.google.android.googlequicksearchbox" name="Google" />
     <icon drawable="@drawable/govee_home" package="com.govee.home" name="Govee Home" />
     <icon drawable="@drawable/grab" package="com.grabtaxi.passenger" name="Grab" />
+    <icon drawable="@drawable/grasshopper" package="com.area120.grasshopper" name="Grasshopper" />
     <icon drawable="@drawable/greenify" package="com.oasisfeng.greenify" name="Greenify" />
     <icon drawable="@drawable/grewards" package="com.google.android.apps.paidtasks" name="Google Rewards" />
     <icon drawable="@drawable/hail" package="com.aistra.hail" name="hail" />
