@@ -179,6 +179,7 @@
     <icon drawable="@drawable/discord" package="com.discord" name="Discord" />
     <icon drawable="@drawable/disneyplus" package="com.disney.disneyplus" name="Disney+" />
     <icon drawable="@drawable/dodocodes" package="com.dodocodes.mobile" name="DodoCodes" />
+    <icon drawable="@drawable/dolby_on" package="com.dolby.dolby234" name="Dolby On" />
     <icon drawable="@drawable/dominos" package="by.mc.dominos.com" name="Domino's Pizza" />
     <icon drawable="@drawable/dominos" package="com.boloid.dominos" name="Domino's Pizza" />
     <icon drawable="@drawable/dominos" package="com.dominos.bd" name="Domino's Pizza" />
