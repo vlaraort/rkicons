@@ -605,6 +605,7 @@
     <icon drawable="@drawable/reverso_context" package="com.softissimo.reverso.context" name="Reverso Context" />
     <icon drawable="@drawable/revolt" package="chat.revolt.app.twa" name="Revolt" />
     <icon drawable="@drawable/revolut" package="com.revolut.revolut" name="Revolut" />
+    <icon drawable="@drawable/ring" package="com.ideopay.user" name="Ring" />
     <icon drawable="@drawable/riot_games" package="com.riotgames.mobile.leagueconnect" name="Riot Mobile"/>
     <icon drawable="@drawable/roku" package="com.roku.remote" name="Roku" />
     <icon drawable="@drawable/rustdesk" package="com.carrierz.flutter_hbb" name="RustDesk" />
